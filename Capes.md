@@ -6,7 +6,8 @@
 1. Ask the user for their in game name and check if they have an OptiFine cape active 
 2. If the user has a cape active, continue these steps. If not, help them [reacivate their cape](#Reactivate-Cape) 
 3. Have the user check `Options -> Video Settings -> Details -> Capes: ` and confirm that it is set to `ON` 
-4. If capes are enabled in video settings, use `!faq cape servers` and help the user follow it as needed 
+4. Ask the user if they can see [http://s.optifine.net/capes/Ari43.png](http://s.optifine.net/capes/Ari43.png)
+5. If the user cannot view the cape hyperlink, use `!faq cape servers` and help the user follow it as needed 
 
 ### Notes: 
 - If the user has an antivirus or internet restrictions they may not be able to access the cape server. 
