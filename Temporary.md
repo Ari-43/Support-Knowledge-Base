@@ -8,6 +8,7 @@
 ### Causes
 - The user moved their cape to another Minecraft username 
 - The user changed their Minecarft username, causing the cape to be moved automatically 
+- The user donated and got the cape after the website began having issues
 
 ### Notes
 - Because only sp614x can fix this and the large number of broken capes, getting them fixed may take a significant amount of time. 
