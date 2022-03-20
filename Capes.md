@@ -9,6 +9,7 @@
 4. If capes are enabled in video settings, use `!faq cape servers` and help the user follow it as needed 
 
 ### Notes: 
+- There is currently an issue with the OptiFine website where capes may break under certain curcumstances. See [Temporary Issues](./Temporary.md#Broken-Cape) for info on how to fix this. 
 - If the user has an antivirus or internet restrictions they may not be able to access the cape server. 
 - It's possible that their ISP or networking hardware cached the cape. In this case, restarting their access point will usually fix it. 
 - If the user belives their cape was stolen, refer to [Stolen Capes](#Stolen-Cape)
