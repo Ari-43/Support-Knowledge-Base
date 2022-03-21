@@ -55,6 +55,6 @@ Issues with OptiFine capes and donations.
 
 ## Stolen Cape
 - The user may think their cape was stolen when it's actually just deactivated or blocked. Ask them if they changed their name recently, if they moved the cape from another account, and what their username is (to check if there is a cape active on that account). If there is a cape active on their username, refer to [Unable to see cape](#Unable-To-See-Cape) 
-- If their cape was actually stolen, there isn't much that can be done. We reccomend that they change their passwords (and enable 2FA when applicable) for their email account, Microsoft/Minecraft account, and their OptiFine.net in that order. After that is done, if the user still has access to their email account, they can manually move the cape back to their username and [reactivate](#Reactivate-Cape) it. 
+- If their cape was actually stolen, there isn't much that can be done. We reccomend that they change their passwords (and enable 2FA when applicable) for their email account, Microsoft/Minecraft account, and their [optifine.net account](https://optifine.net/login) in that order. After that is done, if the user still has access to their email account, they can manually move the cape back to their username and [reactivate](#Reactivate-Cape) it. 
 
 <hr>
