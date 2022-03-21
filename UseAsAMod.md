@@ -1,6 +1,8 @@
 # Using OptiFine a Mod
 This refers to using OptiFine as a mod with [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/), [FabricMC](https://fabricmc.net/use/installer/), or as a jar mod, not using OptiFine in general.
 
+<hr>
+
 ## FabricMC
 1. Install [FabricMC](https://fabricmc.net/use/installer/) 
 2. Put [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) in the `.minecraft/mods` folder 
@@ -28,6 +30,8 @@ This refers to using OptiFine as a mod with [Forge](https://files.minecraftforge
 3. Run `!jarmod` and ask the user to follow the steps
 4. Ask the user to select all the files while still **inside** the OptiFine mod folder, and then send them to a zip file.
 5. For MultiMC, add the jar mod to the Minecraft jar using the menu. On other launchers proceed as normal for installing jar mods on that launcher. 
+
+<hr>
 
 ## Troubleshooting 
 1. Check if the game crashes with only OptiFine/OptiFine and OptiFabric in the mods folder 
