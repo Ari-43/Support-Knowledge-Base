@@ -23,7 +23,7 @@
 
 <hr>
 
-### Current Website Issues.
+### Website Issues.
 - If the user is having cape issues, refer to [Broken Cape](#Broken-Cape).
 - Some pages are [disabled](https://optifine.net/down) to prevent users breaking their capes.
 - Several reloads may be required to access some pages.
