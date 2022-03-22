@@ -6,8 +6,6 @@
 
 ## Website Issues (16-21/3/22)
 
-<hr>
-
 ### Broken Cape 
 1. Direct the user to open an OptiFine support ticket (Discord channel: `<#904875214112956497>`). Only sp614x can fix this issue. 
 
@@ -31,3 +29,4 @@
 - Several reloads may be required to access some pages.
 
 <hr>
+
