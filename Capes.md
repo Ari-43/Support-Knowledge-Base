@@ -73,3 +73,18 @@ Issues with OptiFine capes and donations.
 - If their cape was actually stolen, there isn't much that can be done. We reccomend that they change their passwords (and enable 2FA when applicable) for their email account, Microsoft/Minecraft account, and their [optifine.net account](https://optifine.net/login) in that order. After that is done, if the user still has access to their email account, they can manually move the cape back to their username and [reactivate](#Reactivate-Cape) it. 
 
 <hr>
+
+## Can't Open Cape Editor 
+
+In the log file:
+```
+[xx:xx:xx] [Render thread/WARN]: [OptiFine] Error opening OptiFine cape link 
+[xx:xx:xx] [Render thread/WARN]: [OptiFine] com.mojang.authlib.exceptions.AuthenticationUnavailableException: Cannot contact authentication server
+```  
+
+1. The user needs to remove any entried related to mojang (Including `authserver.mojang.com` and `sessionserver.mojang.com`) from the hosts file located at `C:\Windows\System32\drivers\etc\hosts`. 
+- The user must have administrator priveliges to edit this file
+- The entire line must be removed
+- The hosts file is not the same as hosts.ics
+
+<hr>
