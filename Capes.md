@@ -57,6 +57,10 @@ Issues with OptiFine capes and donations.
 2. If the error was before the @, or the user needs to change the email entirely, ask the user how long ago they donated
 3. If the donation was less than 30 days ago, direct them to request a [refund](#Refunds). If it was more than 30 days ago, nothing can be done besides deactivating the cape and re-donating.
 
+
+### Notes
+- Email changes in the normal sense are not possible. This functionality is not planned.
+
 <hr>
 
 ## Refunds
