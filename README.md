@@ -11,3 +11,4 @@ Contains information from [the original Support Knowlage Base](https://github.co
 - [Using OptiFine as a Forge, FabricMC, or jar mod](/UseAsAMod.md)
 - [Temporary Issues](/Temporary.md)
 - [Support Related OptiBot Commands](/BotCommandsList.md)
+- [Archive](/archive)
