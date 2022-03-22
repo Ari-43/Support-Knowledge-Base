@@ -2,7 +2,7 @@
 
 [Temporary issues](/Temporary.md) that have been reesolved
 
-<hr style="height: 16px;">
+<hr>
 
 ## Website Issues (16-21/3/22)
 
@@ -30,4 +30,4 @@
 - Some pages are [disabled](https://optifine.net/down) to prevent users breaking their capes.
 - Several reloads may be required to access some pages.
 
-<hr style="height: 16px;">
+<hr>
