@@ -5,7 +5,6 @@
 ## Capes
 - Check if a Minecraft username has a cape: `!cape username` 
 - Guide user to unblock the cape servers: `!faq cape servers` 
-- User gets `server error` when trying to edit or move a cape: `!faq server error` 
 - User is stuck on CloudFlare DDoS protection: `!faq cloudflare` 
 - User's cape was stolen: `!faq OptiFine cape stolen`
 
