@@ -21,7 +21,7 @@ Issues with OptiFine capes and donations.
 ## Reactivate Cape
 1. Open the game
 2. Open the OptiFine cape editor by pressing `Options -> Skin Customization -> OptiFine Cape... -> Open Cape Editor` or by going through [LivzMC](https://livzmc.net/microsoft/changeCape) if they are signed into Microsoft in their browser. 
-3. Press "Activate" <br> ![Image of the "Activate" Button](./images/ReactivateCape.png) 
+3. Press "Activate" <br> ![Image of the "Activate" Button](/images/ReactivateCape.png) 
 4. Restart the game
 
 ### Notes: 
@@ -32,13 +32,13 @@ Issues with OptiFine capes and donations.
 ## Move A Cape
 1. Go to [https://optifine.net/login](https://optifine.net/login)
 2. Log in. If the user doesn't have a password, they will need to request one at [https://optifine.net/requestPassword](https://optifine.net/requestPassword) 
-3. Press the "Edit" button as shown below <br> ![Image of the "Edit" button](./images/Cape_Edit_Button.png) 
+3. Press the "Edit" button as shown below <br> ![Image of the "Edit" button](/images/Cape_Edit_Button.png) 
 4. Change the name in the "Username" field to the new username 
 5. Press save 
 6. Restart the game 
 
 ### Notes:
-- (Step N/A) Capes move automatically. Usually changing the name manually isn't necessarry. 
+- Capes move automatically. Usually changing the name manually isn't necessarry. 
 - (Step 6) The user could reload the cape, but asking them to just restart their game is likely more familiar to them and there isn't a chance of them accidentally leaving the menu while it's reloading. 
 
 <hr>

@@ -7,7 +7,7 @@ Contains information from [the original Support Knowlage Base](https://github.co
 <hr>
 
 # Table of Contents
-- [Cape Issues](./Capes.md)
-- [Using OptiFine as a Forge, FabricMC, or jar mod](./UseAsAMod.md)
-- [Temporary Issues](./Temporary.md)
-- [Support Related OptiBot Commands](./BotCommandsList.md)
+- [Cape Issues](/Capes.md)
+- [Using OptiFine as a Forge, FabricMC, or jar mod](/UseAsAMod.md)
+- [Temporary Issues](/Temporary.md)
+- [Support Related OptiBot Commands](/BotCommandsList.md)
