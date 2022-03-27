@@ -23,7 +23,7 @@ Issues with OptiFine capes and donations.
 3. Press "Activate" <br> ![Image of the "Activate" Button](/images/ReactivateCape.png) 
 4. Restart the game
 
-### Notes: 
+### Notes 
 - (Step 4) The user could reload the cape, but asking them to just restart their game is likely more familiar to them and there isn't a chance of them accidentally leaving the menu while it's reloading. 
 
 <hr>
@@ -36,7 +36,7 @@ Issues with OptiFine capes and donations.
 5. Press save 
 6. Restart the game 
 
-### Notes:
+### Notes
 - Capes move automatically. Usually changing the name manually isn't necessarry. 
 - (Step 6) The user could reload the cape, but asking them to just restart their game is likely more familiar to them and there isn't a chance of them accidentally leaving the menu while it's reloading. 
 
@@ -47,7 +47,7 @@ Issues with OptiFine capes and donations.
 2. Ask for the banner pattern to see if it's possible to make the banner without them 
 3. If sucessful at removing the Mojang logo or a sufficient number of layers, send the edited banner back to the user 
 
-### Notes: 
+### Notes
 - This means the user is trying to use a cape that has more than 8 layers and/or uses the Mojang logo pattern.
 
 <hr>
