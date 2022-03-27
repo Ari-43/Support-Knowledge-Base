@@ -10,5 +10,6 @@
 - [Cape Issues](/Capes.md)
 - [Using OptiFine as a Forge, FabricMC, or jar mod](/UseAsAMod.md)
 - [Temporary Issues](/Temporary.md)
+- [Incompatible Mods](/Incompatible.md)
 - [Support Related OptiBot Commands](/BotCommandsList.md)
 - [Archive](/archive)
