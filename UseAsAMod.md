@@ -10,7 +10,6 @@ This refers to using OptiFine as a mod with [Forge](https://files.minecraftforge
 4. [Troubleshoot](#Troubleshooting) if necessary. 
 
 ### Notes
-- OptiFabric doesn't have a proper 1.18.2 releaase yet, but there is a community experimental build found in [https://github.com/Chocohead/OptiFabric/files/8244174/optifabric-experimental.zip](https://github.com/Chocohead/OptiFabric/files/8325141/optifabric-1.12.11.zip). The user will have to extract the .zip to get the mod's .jar inside. 
 - If using OptiFabric on 1.18.1, [OptiFine release H4](https://optifine.net/adloadx?f=OptiFine_1.18.1_HD_U_H4.jar) must be used. If not, the loading screen will loop or the game with crash outright.
 
 <hr>
