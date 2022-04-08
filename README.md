@@ -11,6 +11,7 @@
 - [Using OptiFine as a Forge, FabricMC, or jar mod](/UseAsAMod.md)
 - [Temporary Issues](/Temporary.md)
 - [Incompatible Mods](/Incompatible.md)
+- [Miscellaneous Issues](/Misc.md)
 - [Options Presets](/presets)
 - [Support Related OptiBot Commands](/BotCommandsList.md)
 - [Archive](/archive)
