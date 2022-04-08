@@ -73,9 +73,9 @@ Issues with OptiFine capes and donations.
 
 <hr>
 
-## Can't Open Cape Editor 
+## Can't Open Cape Editor (Authentication Error)
 
-In the log file:
+If the following is in the log file:
 ```
 [xx:xx:xx] [Render thread/WARN]: [OptiFine] Error opening OptiFine cape link 
 [xx:xx:xx] [Render thread/WARN]: [OptiFine] com.mojang.authlib.exceptions.AuthenticationUnavailableException: Cannot contact authentication server
@@ -85,5 +85,8 @@ In the log file:
 	- The user must have administrator priveliges to edit this file
 	- The entire line must be removed
 	- The hosts file is not the same as hosts.ics
+	
+If that exact error is not in the log:
+1. Explained in `!faq cape editor not opening`
 
 <hr>
