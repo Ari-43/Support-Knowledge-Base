@@ -22,7 +22,7 @@ This is usually due to Java not being installed or .jar files being associated w
 2. Re-download OptiFine if it was extracted by a file archive tool
 3. Continue installing OptiFine as normal. If OptiFine still isn't opening with Java, it may be necessary to run [Jarfix](https://johann.loefflmann.net/downloads/jarfix.exe) again. 
 4. If none of the previous steps worked, but Java installed sucessfully, the command line/a terminal emulator can be used to run the OptiFine installer. To do this, run `java -jar OptiFine_HD_U_ver.jar`, replacing "ver" with the OptiFine version. 
-- Video Instructions for Windows: <br> https://youtu.be/_I0hl-i77AY
+- Video Instructions for Windows: https://youtu.be/_I0hl-i77AY
 
 <hr>
 
