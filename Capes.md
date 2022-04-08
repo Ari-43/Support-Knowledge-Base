@@ -23,7 +23,7 @@ Issues with OptiFine capes and donations.
 2. Open the OptiFine cape editor by pressing `Options -> Skin Customization -> OptiFine Cape... -> Open Cape Editor` or by going through [LivzMC](https://livzmc.net/microsoft/changeCape) if they are signed into Microsoft in their browser. 
 3. Press "Activate" <br> ![Image of the "Activate" Button](/images/ReactivateCape.png) 
 4. Restart the game
-- The user could reload the cape, but asking them to just restart their game is likely more familiar to them and there isn't a chance of them accidentally leaving the menu while it's reloading. 
+	- The user could reload the cape, but asking them to just restart their game is likely more familiar to them and there isn't a chance of them accidentally leaving the menu while it's reloading. 
 
 <hr>
 
@@ -34,7 +34,7 @@ Issues with OptiFine capes and donations.
 4. Change the name in the "Username" field to the new username 
 5. Press save 
 6. Restart the game 
-- The user could reload the cape, but asking them to just restart their game is likely more familiar to them and there isn't a chance of them accidentally leaving the menu while it's reloading. 
+	- The user could reload the cape, but asking them to just restart their game is likely more familiar to them and there isn't a chance of them accidentally leaving the menu while it's reloading. 
 
 ### Notes
 - Capes move automatically. Usually changing the name manually isn't necessarry. 
@@ -82,8 +82,8 @@ In the log file:
 ```  
 
 1. The user needs to remove any entried related to mojang (Including `authserver.mojang.com` and `sessionserver.mojang.com`) from the hosts file located at `C:\Windows\System32\drivers\etc\hosts`. 
-- The user must have administrator priveliges to edit this file
-- The entire line must be removed
-- The hosts file is not the same as hosts.ics
+	- The user must have administrator priveliges to edit this file
+	- The entire line must be removed
+	- The hosts file is not the same as hosts.ics
 
 <hr>
