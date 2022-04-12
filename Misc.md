@@ -11,7 +11,7 @@ Issues that don't fall into a specific category yet
 5. Remove anything in the Java Runtime field
 
 ### Notes
-- This doesnt solve it for all users. Some have their Java runtime already set to default. As best I can tell, when this happens something about Minecraft’s Java runtime has changed.
+- This doesnt solve it for all users. Some have their Java runtime already set to default. Usually when this doesn't work the user is playing a CurseForge modpack. It is still unknown why this happens. 
 
 <hr>
 
