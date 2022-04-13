@@ -3,7 +3,7 @@ Issues that don't fall into a specific category yet
 
 <hr>
 
-## Invalid Java Runtime Configuration 
+## Invalid Java Runtime Configuration or Invompatible Java Runtime
 1. Go to the installations tab of the launcher
 2. Press the three dots next to the installation 
 3. Press Edit
@@ -11,7 +11,7 @@ Issues that don't fall into a specific category yet
 5. Remove anything in the Java Runtime field
 
 ### Notes
-- This doesnt solve it for all users. Some have their Java runtime already set to default. Usually when this doesn't work the user is playing a CurseForge modpack. It is still unknown why this happens. 
+- If the error is `Invalid Java Runtime Configuration` this may solve it for all users. Some have their Java runtime already set to default. Usually when this doesn't work the user is playing a CurseForge modpack. It is still unknown why this happens. 
 
 <hr>
 
