@@ -1,10 +1,6 @@
-# Archive of Temporary Issues
-
-[Temporary issues](/Temporary.md) that have been reesolved
+# (16-21/3/22)
 
 <hr>
-
-## Website Issues (16-21/3/22)
 
 ### Broken Cape 
 1. Direct the user to open an OptiFine support ticket (Discord channel: `<#904875214112956497>`). Only sp614x can fix this issue. 
