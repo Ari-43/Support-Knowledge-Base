@@ -8,16 +8,16 @@ Issues with OptiFine capes and donations.
 2. If the user has a cape active, continue these steps. If not, help them [reacivate their cape](#Reactivate-Cape) 
 3. Have the user check `Options -> Video Settings -> Details -> Capes:` and confirm that it is set to `ON` 
 4. Ask the user if they can see [http://s.optifine.net/capes/Ari43.png](http://s.optifine.net/capes/Ari43.png)
+	- If the user has an antivirus or internet restrictions they may not be able to access the cape server. 
+	- It's possible that their ISP or networking hardware cached the cape (this is obvious when a user sees an outdated cape). If this is the case, restarting their access point will usually fix it. 
 5. If the user cannot view the cape hyperlink, use `!faq cape servers` and help the user follow it as needed. 
 	- For MacOSX and Linux, the hosts file is located at `/etc/hosts`
 6. If the user could open [the link](http://s.optifine.net/capes/Ari43.png), ask if they are using any thrird party clients or launchers. 
-	- PvP Clients, Legal (non-pioracy) launchers, or similar: Ask the user to try [stand-alone OptiFine](https://optifine.net/downloads) on the [vanilla launcher](https://launcher.mojang.com/download/MinecraftInstaller.msi). If the user can see their cape with stand-alone OptiFine on the vanilla launcher, ask them to contact support for their PvP client or launcher.
 	- PvP Clients, Legal (non-piracy) launchers, or similar: Ask the user to try [stand-alone OptiFine](https://optifine.net/downloads) on the [vanilla launcher](https://launcher.mojang.com/download/MinecraftInstaller.msi). If the user can see their cape with stand-alone OptiFine on the vanilla launcher, ask them to contact support for their PvP client or launcher.
 	- Piracy Clients & Launchers: Run `!piracy` to explain to the user that support will not be provided for users commiting piracy. Once the game has been bought and the user is not using a launcher that supports piracy, support will be provided.
 	- Cheat Clients/Mods: Support will not be provided for cheat clients/mods because doing so would be against the [Discord guidlines](https://discord.com/guidelines)
 	
 ### Notes: 
-- If the user has an antivirus or internet restrictions they may not be able to access the cape server. 
 - It's possible that their ISP or networking hardware cached the cape. In this case, restarting their access point will usually fix it. 
 - If the user belives their cape was stolen, refer to [Stolen Capes](#Stolen-Cape)
 
