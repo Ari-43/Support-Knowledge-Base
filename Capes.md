@@ -12,6 +12,7 @@ Issues with OptiFine capes and donations.
 	- For MacOSX and Linux, the hosts file is located at `/etc/hosts`
 6. If the user could open [the link](http://s.optifine.net/capes/Ari43.png), ask if they are using any thrird party clients or launchers. 
 	- PvP Clients, Legal (non-pioracy) launchers, or similar: Ask the user to try [stand-alone OptiFine](https://optifine.net/downloads) on the [vanilla launcher](https://launcher.mojang.com/download/MinecraftInstaller.msi). If the user can see their cape with stand-alone OptiFine on the vanilla launcher, ask them to contact support for their PvP client or launcher.
+	- PvP Clients, Legal (non-piracy) launchers, or similar: Ask the user to try [stand-alone OptiFine](https://optifine.net/downloads) on the [vanilla launcher](https://launcher.mojang.com/download/MinecraftInstaller.msi). If the user can see their cape with stand-alone OptiFine on the vanilla launcher, ask them to contact support for their PvP client or launcher.
 	- Piracy Clients & Launchers: Run `!piracy` to explain to the user that support will not be provided for users commiting piracy. Once the game has been bought and the user is not using a launcher that supports piracy, support will be provided.
 	- Cheat Clients/Mods: Support will not be provided for cheat clients/mods because doing so would be against the [Discord guidlines](https://discord.com/guidelines)
 	
