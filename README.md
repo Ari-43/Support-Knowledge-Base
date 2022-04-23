@@ -13,6 +13,7 @@
 - [Incompatible Mods](/Incompatible.md)
 - [Miscellaneous Issues](/Misc.md)
 - [Options Presets](/presets)
+- [Options Images](/OFOptions.md)
 - [Support Related OptiBot Commands](/BotCommandsList.md)
 - [Credits](/Credits.md)
-- [Archive](/archive)
+- [Archive](/archive) 
