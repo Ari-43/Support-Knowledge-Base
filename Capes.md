@@ -18,7 +18,6 @@ Issues with OptiFine capes and donations.
 	- Cheat Clients/Mods: Support will not be provided for cheat clients/mods because doing so would be against the [Discord guidlines](https://discord.com/guidelines)
 	
 ### Notes: 
-- It's possible that their ISP or networking hardware cached the cape. In this case, restarting their access point will usually fix it. 
 - If the user belives their cape was stolen, refer to [Stolen Capes](#Stolen-Cape)
 
 <hr>
