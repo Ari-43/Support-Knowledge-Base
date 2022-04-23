@@ -14,4 +14,5 @@
 - [Miscellaneous Issues](/Misc.md)
 - [Options Presets](/presets)
 - [Support Related OptiBot Commands](/BotCommandsList.md)
+- [Credits](/Credits.md)
 - [Archive](/archive)
