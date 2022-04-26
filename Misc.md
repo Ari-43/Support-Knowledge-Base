@@ -3,15 +3,33 @@ Issues that don't fall into a specific category yet
 
 <hr>
 
-## Invalid Java Runtime Configuration or Invompatible Java Runtime
+## Invalid Java Runtime Configuration
+### Fix #1 (Most Common)
+- Delete the `%AppData%\.minecraft\libraries\optifine\OptiFine\MCver_HD_U_OFver` folder
+- Reinstall OptiFine
+
+### Notes #1
+- Due to difficulty reproducing this error, it's unknown which one of these steps actually fixes this issue.
+<br><br>
+
+### Fix #2
 1. Go to the installations tab of the launcher
 2. Press the three dots next to the installation 
 3. Press Edit
 4. Press Advanced
 5. Remove anything in the Java Runtime field
 
-### Notes
-- If the error is `Invalid Java Runtime Configuration` this may solve it for all users. Some have their Java runtime already set to default. Usually when this doesn't work the user is playing a CurseForge modpack. It is still unknown why this happens. 
+<hr>
+
+## Incompatible Java Runtime
+1. Go to the installations tab of the launcher
+2. Press the three dots next to the installation 
+3. Press Edit
+4. Press Advanced
+5. Remove anything in the Java Runtime field
+
+### Notes 
+- The fix for this issue is the same as one of the fixes for [Invalid Java Runtime Configuration](#Invalid-Java-Runtime-Configuration)
 
 <hr>
 
