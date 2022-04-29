@@ -11,7 +11,7 @@ This does not include listed [incompatible mods](/Incompatible.md)
 - [MinecraftForge](https://files.minecraftforge.net/net/minecraftforge/forge/)
 - [Chocohead](https://github.com/Chocohead) - [OptiFabric](https://github.com/Chocohead/OptiFabric) 
 - [modmuss50](https://github.com/modmuss50) - [Old OptiFabric](https://github.com/modmuss50/OptiFabric)
-- MultiMC Team - [MultiMC](https://multimc.org/)
+- [MultiMC Team](https://www.patreon.com/multimc) - [MultiMC](https://multimc.org/)
 - [ZenithKnight](https://github.com/ZenithRogue) - [OptiBot](http://discordapp.com/users/645476324554702863)
 - [PaymentWall](https://www.paymentwall.com/)
  
