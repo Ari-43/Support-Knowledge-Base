@@ -5,19 +5,27 @@ Issues that don't fall into a specific category yet
 
 ## Invalid Java Runtime Configuration
 ### Fix #1 (Most Common)
-- Delete the `%AppData%\.minecraft\libraries\optifine\OptiFine\MCver_HD_U_OFver` folder
 - Reinstall OptiFine
 
-### Notes #1
-- Due to difficulty reproducing this error, it's unknown which one of these steps actually fixes this issue.
-<br><br>
+### Notes
+- This fix is for stand-alone OptiFine. If OptiFine is being used with other mods, attempt [Fix #2](#fix-2), and then [Fix #3](#fix-3)
+
+<br>
 
 ### Fix #2
 1. Go to the installations tab of the launcher
 2. Press the three dots next to the installation 
 3. Press Edit
-4. Press Advanced
-5. Remove anything in the Java Runtime field
+4. Press More Options
+5. Remove anything in the Java Runtime field and JVM Arguments Field
+
+<br>
+
+### Fix #3 (With Other Mods)
+- Refer to [Mod Troubleshooting](/UseAsAMod.md#Troubleshooting)
+
+### Notes #3
+- Try [Fix #2](#fix-2) before this
 
 <hr>
 
