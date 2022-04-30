@@ -6,7 +6,7 @@ Issues with OptiFine capes and donations.
 ## Unable To See Cape
 1. Ask the user for their in game name and check if they have an OptiFine cape active 
 2. If the user has a cape active, continue these steps. If not, help them [reacivate their cape](#Reactivate-Cape) 
-3. Have the user check `Options -> Video Settings -> Details -> Capes:` and confirm that it is set to `ON` 
+3. Have the user check that `Options -> Video Settings -> Details -> Capes:` and `Options -> Skin Customization -> Cape:` are both set to `ON`
 4. Ask the user if they can see [http://s.optifine.net/capes/Ari43.png](http://s.optifine.net/capes/Ari43.png)
 	- If the user has an antivirus or internet restrictions they may not be able to access the cape server. 
 	- It's possible that their ISP or networking hardware cached the cape (this is obvious when a user sees an outdated cape). If this is the case, restarting their access point will usually fix it. 
