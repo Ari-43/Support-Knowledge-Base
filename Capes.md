@@ -47,7 +47,7 @@ Issues with OptiFine capes and donations.
 
 ## Invalid Cape Design 
 1. Expain the the user that capes cannot have more than 8 layers
-	- If the user is using the Mojang pattern, it will simply not be rendered on the cape. 
+	- If the user is using the Mojang pattern, it will simply not be rendered on the cape and won't cause an error. 
 2. Ask for the banner pattern to see if it's possible to make the banner without the extra layers
 3. If sucessful at removing a sufficient number of layers, send the edited banner back to the user 
 
