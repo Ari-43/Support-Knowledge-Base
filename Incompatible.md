@@ -2,7 +2,7 @@
 Mods that will cause issues with OptiFine. This always refers to the latest version of the mod.  
 **Create an issue or pull request if you have found an incompatible mod or if an incompatability has been fixed.** It should link to a report of the incompatability or include information about what is happening in the pull request itself.
 
-Severity Levels:
+## Severity Levels:
 1. Crash
 2. Major Graphical Issues
 3. Minor Graphical Issues
@@ -11,7 +11,7 @@ Major Graphical Issues have a significant negative effect on gameplay; Minor Gra
 
 <hr>
 
-Fabric
+## Fabric
 | Mod | Severity Level |
 | ---------------- | ---------------- |
 | Sodium | `1` |
@@ -21,7 +21,7 @@ Fabric
 
 <hr>
 
-Forge
+## Forge
 | Mod | Severity Level |
 | ---------------- | ---------------- |
 | [Create/Flywheel](https://github.com/sp614x/optifine/issues/6571) | `2` |
