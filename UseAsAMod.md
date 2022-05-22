@@ -6,21 +6,23 @@ This refers to using OptiFine as a mod with [Forge](https://files.minecraftforge
 ## FabricMC
 1. Install [FabricMC](https://fabricmc.net/use/installer/) 
 2. Put [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) in the `.minecraft/mods` folder 
-3. Put [OptiFine](https://optifine.net/downloads) in the `.minecraft/mods` folder 
+3. Put [OptiFine](https://optifine.net/downloads) in the `.minecraft/mods` folder
 4. [Troubleshoot](#Troubleshooting) if necessary. 
 
 ### Notes
 - If using OptiFabric on 1.18.1, [OptiFine release H4](https://optifine.net/adloadx?f=OptiFine_1.18.1_HD_U_H4.jar) must be used. If not, the loading screen will loop or the game with crash outright.
+- If using the CurseForge launcher, that instance's mods folder should be used instead of `.minecraft/mods`.
 
 <hr>
 
 ## Forge
 1. Install [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) 
-2. Put OptiFine in the `.minecraft/mods` folder 
+2. Put OptiFine in the `.minecraft/mods` folder
 3. [Troubleshoot](#Troubleshooting) if necessary. 
 
 ### Notes
 - OptiFine doesn't appear in the mods list. If the user asks, tell them to go to video settings and check for the OptiFine watermark in the bottom left of video settings.
+- If using the CurseForge launcher, that instance's mods folder should be used instead of `.minecraft/mods`.
 
 <hr>
 

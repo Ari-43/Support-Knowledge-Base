@@ -12,8 +12,8 @@ Major Graphical Issues have a significant negative effect on gameplay; Minor Gra
 <hr>
 
 ## Fabric
-| Mod | Severity Level |
-| ---------------- | ---------------- |
+| Mod | Severity Level | Workarounds |
+| ---------------- | ---------------- | ---------------- |
 | Sodium | `1` |
 | Iris | `1` |
 | [Figura](https://github.com/sp614x/optifine/issues/6198) | `3` |
@@ -22,9 +22,9 @@ Major Graphical Issues have a significant negative effect on gameplay; Minor Gra
 <hr>
 
 ## Forge
-| Mod | Severity Level |
-| ---------------- | ---------------- |
-| [Create/Flywheel](https://github.com/sp614x/optifine/issues/6571) | `2` |
+| Mod | Severity Level | Workarounds |
+| ---------------- | ---------------- | ---------------- |
+| [Create/Flywheel](https://github.com/sp614x/optifine/issues/6571) | `2` | Disable AA/AF [^1] |
 | [Emojiful](https://github.com/sp614x/optifine/issues/6570) | `3` |
 | [Twilight Forest](https://github.com/sp614x/optifine/issues/6291) | `1` |
 | [NoShades](https://github.com/StartsMercury/noshades/issues/4) | `3` |
@@ -32,3 +32,5 @@ Major Graphical Issues have a significant negative effect on gameplay; Minor Gra
 | [Immersive Portals](https://github.com/sp614x/optifine/issues/5922) | `1`|
 
 <hr>
+
+[^1]: This may not work for all users
