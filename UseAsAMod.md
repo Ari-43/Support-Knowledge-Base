@@ -1,4 +1,4 @@
-# Using OptiFine a Mod
+# Using OptiFine as a Mod
 This refers to using OptiFine as a mod with [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/), [FabricMC](https://fabricmc.net/use/installer/), or as a jar mod, not using OptiFine in general.
 
 <hr>
