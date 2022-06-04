@@ -22,7 +22,7 @@ Major Graphical Issues have a significant negative effect on gameplay; Minor Gra
 <hr>
 
 ## Forge
-| Mod | Severity Level | Workarounds |
+| Mod | Severity Level | Workarounds and Notes |
 | ---------------- | ---------------- | ---------------- |
 | [Create/Flywheel](https://github.com/sp614x/optifine/issues/6571) | `2` | Disable AA/AF [^1] |
 | [Emojiful](https://github.com/sp614x/optifine/issues/6570) | `3` |
@@ -30,6 +30,7 @@ Major Graphical Issues have a significant negative effect on gameplay; Minor Gra
 | [NoShades](https://github.com/StartsMercury/noshades/issues/4) | `3` |
 | [QuickSand](https://github.com/sp614x/optifine/issues/6582) | `3` |
 | [Immersive Portals](https://github.com/sp614x/optifine/issues/5922) | `1`|
+| [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium) | `1` | Sodium Forge Port |
 
 <hr>
 
