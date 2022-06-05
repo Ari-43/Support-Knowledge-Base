@@ -11,13 +11,14 @@ Major Graphical Issues have a significant negative effect on gameplay; Minor Gra
 
 <hr>
 
-## Fabric
-| Mod | Severity Level | Workarounds |
+## Fabric 
+| Mod | Severity Level | Workarounds and Notes | 
 | ---------------- | ---------------- | ---------------- |
 | Sodium | `1` |
 | Iris | `1` |
 | [Figura](https://github.com/sp614x/optifine/issues/6198) | `3` |
 | [Replay Mod](https://github.com/sp614x/optifine/issues/6139) | `3` |
+| Fabric API `0.51.1 1.18.2` to Current (As of 5/6/22) | `1` | Use Fabric API `0.51.0 1.18.2` |
 
 <hr>
 
