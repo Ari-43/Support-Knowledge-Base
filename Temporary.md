@@ -1,5 +1,5 @@
 # Temporary Issues 
-Issues that will (hopefully) not be around for long.
+Issues that will (hopefully) not be around for long. 
 
-## Nothing here for now!
-See [the temprary issue archive](./archive/TemporaryIssues.md) for past issues.
+## Malwarebytes Blocking Cape Servers 
+- [Make an exclusion](https://support.malwarebytes.com/hc/en-us/articles/360038479234) for `s.optifine.net` 
