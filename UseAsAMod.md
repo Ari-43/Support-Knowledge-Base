@@ -10,7 +10,8 @@ This refers to using OptiFine as a mod with [Forge](https://files.minecraftforge
 4. [Troubleshoot](#Troubleshooting) if necessary. 
 
 ### Notes
-- If using OptiFabric on 1.18.1, [OptiFine release H4](https://optifine.net/adloadx?f=OptiFine_1.18.1_HD_U_H4.jar) must be used. If not, the loading screen will loop or the game with crash outright.
+- If using OptiFabric on 1.18.1, [OptiFine release H4](https://optifine.net/adloadx?f=OptiFine_1.18.1_HD_U_H4.jar) must be used. If not, the loading screen will loop or the game with crash outright. 
+- Fabric API version `0.51.1 1.18.2` to Current (As of 5/6/22) is incompatible with OptiFabric. If Fabric API is required by another mod, Fabric API `0.51.0 1.18.2` or below should be used. 
 - If using the CurseForge launcher, that instance's mods folder should be used instead of `.minecraft/mods`.
 
 <hr>
