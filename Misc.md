@@ -41,6 +41,11 @@ Issues that don't fall into a specific category yet
 
 <hr>
 
+## Shader Issues on M1
+- Send the user a link to [AppleSilicon Minecraft Shaders](https://github.com/MoustacheOff/AppleSilicon-Minecraft-Shaders) and tell them to try the shaders listed
+
+<hr>
+
 ## World “smearing” with shaders 
 <img src="/images/Smearing.png" alt="World Smearing Screenshot" width="400"> <br>
 (Screenshot provided by [ali3lewa3#2341](http://discordapp.com/users/356738342609747969))
