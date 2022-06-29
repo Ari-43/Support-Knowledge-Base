@@ -32,6 +32,7 @@ Major Graphical Issues have a significant negative effect on gameplay; Minor Gra
 | [QuickSand](https://github.com/sp614x/optifine/issues/6582) | `3` |
 | [Immersive Portals](https://github.com/sp614x/optifine/issues/5922) | `1`|
 | [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium) | `1` | Sodium Forge Port |
+| [Improved Mobs](https://canary.discord.com/channels/423430686880301056/423433009568546827/983213288743661612) | `1` |
 
 <hr>
 
