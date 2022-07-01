@@ -10,3 +10,9 @@ The first solutions should be tried first
 
 ## OptiFine 1.19 H8 Pre 1-2: Max Framerate Stuck on VSync 
 - Reset Video Settings
+
+## OptiFine 1.19 H8 Pre 1: Shaders not working
+- Update OptiFine to H8 pre2 or later
+
+## OptiFine 1.19 H8 Pre 1-2: Crashing with Forge
+- OptiFine is not yet compatible with Forge on 1.19
