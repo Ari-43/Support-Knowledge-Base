@@ -18,7 +18,6 @@ Major Graphical Issues have a significant negative effect on gameplay; Minor Gra
 | Iris | `1` |
 | [Figura](https://github.com/sp614x/optifine/issues/6198) | `3` |
 | [Replay Mod](https://github.com/sp614x/optifine/issues/6139) | `3` |
-| Fabric API `0.53.4 1.18.2` to Current (As of 10/6/22) | `1` | Use Fabric API `0.53.3 1.18.2` |
 
 <hr>
 
