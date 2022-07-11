@@ -18,6 +18,7 @@ Major Graphical Issues have a significant negative effect on gameplay; Minor Gra
 | Iris | `1` |
 | [Figura](https://github.com/sp614x/optifine/issues/6198) | `3` |
 | [Replay Mod](https://github.com/sp614x/optifine/issues/6139) | `3` |
+| [DashLoader](https://www.curseforge.com/minecraft/mc-mods/dashloader) | `1` |
 
 <hr>
 
