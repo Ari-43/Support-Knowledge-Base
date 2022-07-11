@@ -12,6 +12,7 @@ Major Graphical Issues have a significant negative effect on gameplay; Minor Gra
 <hr>
 
 ## Fabric 
+
 | Mod | Severity Level | Workarounds and Notes | 
 | ---------------- | ---------------- | ---------------- |
 | Sodium | `1` |
@@ -23,6 +24,7 @@ Major Graphical Issues have a significant negative effect on gameplay; Minor Gra
 <hr>
 
 ## Forge
+
 | Mod | Severity Level | Workarounds and Notes |
 | ---------------- | ---------------- | ---------------- |
 | [Create/Flywheel](https://github.com/sp614x/optifine/issues/6571) | `2` | Disable AA/AF [^1] |
