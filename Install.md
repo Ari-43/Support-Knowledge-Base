@@ -12,7 +12,7 @@ This is usually due to Java not being installed or .jar files being associated w
 3. Continue installing OptiFine as normal. If OptiFine still isn't opening with Java, it may be necessary to run [Jarfix](https://johann.loefflmann.net/downloads/jarfix.exe) again. 
 	- Jarfix may fail to find Adoptium OpenJDK in some cases. If this happens, the command `.\jarfix.exe /z` should be used while in the folder Jarfix was downloaded to. 
 4. If none of the previous steps worked, but Java installed sucessfully, the command line/a terminal emulator can be used to run the OptiFine installer. To do this, run `java -jar OptiFine_mcver_HD_U_ver.jar`, replacing "ver" with the OptiFine version. 
-	- Video Instructions for Windows: https://youtu.be/_I0hl-i77AY
+	- Video Instructions for Windows: [[YouTube]](https://youtu.be/_I0hl-i77AY) [[File]](/videos/ExecuteJar.mp4)
 
 <hr>
 
@@ -21,7 +21,7 @@ This is usually due to Java not being installed or .jar files being associated w
 ### Fix #1:
 `java.io.FileNotFoundException: C:\Users\Owner\AppData\Roaming\.minecraft\libraries\optifine\OptiFine\1.18.2_HD_U_H7\OptiFine-1.18.2_HD_U_H7.jar (Access is denied)`
 
-Full Video Instructions for Windows: https://youtu.be/lBaUbS7FJAU
+- Full Video Instructions for Windows: [[YouTube]](https://youtu.be/lBaUbS7FJAU) [[File]](/videos/FileNotFound.mp4)
 
 1. Press <img src="https://docs.microsoft.com/en-us/windows/images/windows-logo.png" alt="Windows Key" style="vertical-align: middle;display:inline-block;width:15px;height:15px;"> + R</li> and paste in `%AppData%\.minecraft\libraries\optifine\OptiFine`
 2. Delete the folder matching both the OptiFine and Minecraft version that is being installed
