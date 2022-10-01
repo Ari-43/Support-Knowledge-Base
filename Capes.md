@@ -23,7 +23,7 @@ Issues with OptiFine capes and donations.
 <hr>
 
 ## Reactivate Cape
-Full Video Instructions for Windows: [File](/videos/ReactivateCape.mp4)
+Full Video Instructions for Windows: [[YouTube]](https://www.youtube.com/watch?v=ysjgZibzek0) [File](/videos/ReactivateCape.mp4)
 
 1. Open the game
 2. Open the OptiFine cape editor by pressing `Options -> Skin Customization -> OptiFine Cape... -> Open Cape Editor` or by going through [LivzMC](https://livzmc.net/microsoft/changeCape) if they are signed into Microsoft in their browser. 
