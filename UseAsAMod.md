@@ -28,6 +28,7 @@ This refers to using OptiFine as a mod with [Forge](https://files.minecraftforge
 <hr>
 
 ## Jar Mod
+### Warning: Obsolete - Will be updated soon
 1. If the user is on H1_pre2 or lower, skip to step 5
 2. Ask the user to press "Extract" in the installer.
 3. Run `!jarmod` and ask the user to follow the steps

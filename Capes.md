@@ -69,41 +69,18 @@ Full Video Instructions for Windows: [[YouTube]](https://www.youtube.com/watch?v
 <hr>
 
 ## Email Changes
-1. Ask the user if they  need to change the email because a typo after the @. If the error is after the @, tell them to contact and admin.
-2. If the error was before the @, or the user needs to change the email entirely, ask the user how long ago they donated
-3. If the donation was less than 30 days ago, direct them to request a [refund](#Refunds). If it was more than 30 days ago, nothing can be done besides deactivating the cape and re-donating.
-
-
-### Notes
-- Email changes in the normal sense are not possible. This functionality is not planned.
+- Ask the user to make a support ticket. Any kind of email change can be facilitated there.
+- Email changes can take a long time, up to a few months
 
 <hr>
 
 ## Refunds
-1. Direct the user to contact [PaymentWall](https://www.paymentwall.com/en/contacts) support [(Email)](mailto:support@paymentwall.com)
+1. Direct the user to contact [PaymentWall](https://www.paymentwall.com/en/contacts) support [(support@paymentwall.com)](mailto:support@paymentwall.com)
 
 <hr>
 
 ## Stolen Cape
 - The user may think their cape was stolen when it's actually just deactivated or blocked. Ask them if they changed their name recently, if they moved the cape from another account, and what their username is (to check if there is a cape active on that account). If there is a cape active on their username, refer to [Unable to see cape](#Unable-To-See-Cape) 
 - If their cape was actually stolen, there isn't much that can be done. We reccomend that they change their passwords (and enable 2FA when applicable) for their email account, Microsoft/Minecraft account, and their [optifine.net account](https://optifine.net/login) in that order. After that is done, if the user still has access to their email account, they can manually move the cape back to their username and [reactivate](#Reactivate-Cape) it. 
-
-<hr>
-
-## Can't Open Cape Editor (Authentication Error)
-
-If the following is in the log file:
-```
-[xx:xx:xx] [Render thread/WARN]: [OptiFine] Error opening OptiFine cape link 
-[xx:xx:xx] [Render thread/WARN]: [OptiFine] com.mojang.authlib.exceptions.AuthenticationUnavailableException: Cannot contact authentication server
-```  
-
-1. The user needs to remove any entried related to mojang (Including `authserver.mojang.com` and `sessionserver.mojang.com`) from the hosts file located at `C:\Windows\System32\drivers\etc\hosts`. 
-	- The user must have administrator priveliges to edit this file
-	- The entire line must be removed
-	- The hosts file is not the same as hosts.ics
-	
-If that exact error is not in the log:
-1. Explained in `!faq cape editor not opening`
 
 <hr>
