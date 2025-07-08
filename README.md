@@ -16,4 +16,3 @@
 - [Options Images](/OFOptions.md)
 - [Support Related OptiBot Commands](/BotCommandsList.md)
 - [Credits](/Credits.md)
-- [Archive](./archive.md) 
