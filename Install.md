@@ -42,6 +42,6 @@ This is usually due to Java not being installed or .jar files being associated w
 ## InstallerFrame Issue
 `Could not find the main class: optifine. InstallerFrame. Program will exit`
 
-- Uninstall the current Java distrobution and use Adoptium
+- Uninstall the current Java distribution and use Adoptium
 
 <hr>
